@@ -32,9 +32,11 @@
                         <td>{{$Cliente->username}}</td>
                     </tr>
                     @endforeach
-
                     </tbody>
                 </table>
+            </article>
+            <article class="col-md-6 col-md-offset-3">
+
             </article>
         </section>
     </body>
